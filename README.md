@@ -23,5 +23,5 @@ Currently learning
 
  ## I am into
  <p align="center">
-  <h4> System Design | Web Development | Micro Services | Mobile Development | Cloud Engineering | DevOps | Software Engineering</h4>
+  <h4> Product Designer | Mobile Development | Software Engineering</h4>
  </p>
